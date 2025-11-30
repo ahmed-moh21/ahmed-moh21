@@ -99,11 +99,6 @@ I'm a passionate Full Stack Developer based in Cairo, Egypt 🇪🇬 with expert
 ##  GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmed-moh21&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-moh21&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
-</div>
-
-<div align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-moh21&theme=radical&hide_border=true" />
 </div>
 
