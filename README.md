@@ -15,12 +15,12 @@
 
 I'm a passionate Full Stack Developer based in Cairo, Egypt 🇪🇬 with expertise in building robust, scalable web applications using modern technologies. I thrive on turning complex problems into simple, beautiful designs.
 
-- 🔭 I'm currently working as **Full Stack Developer** at Egypt Tours Portal
-- 🌱 I'm currently learning **Advanced TypeScript and System Design**
-- 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Laravel, React, MySQL, or any web-related tech**
-- 📫 How to reach me: **ahmedselses7310@gmail.com**
-- ⚡ Fun fact: **I can transform any Figma design into fully functional code!**
+-  I'm currently working as **Full Stack Developer** at Egypt Tours Portal
+-  I'm currently learning **Advanced TypeScript and System Design**
+-  I'm looking to collaborate on **Open Source Projects**
+-  Ask me about **Laravel, React, MySQL, or any web-related tech**
+-  How to reach me: **ahmedselses7310@gmail.com**
+-  Fun fact: **I can transform any Figma design into fully functional code!**
 
 
 <div align="left">
@@ -35,9 +35,9 @@ I'm a passionate Full Stack Developer based in Cairo, Egypt 🇪🇬 with expert
   </a>
 </div>
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### 💻 Frontend Development
+###  Frontend Development
 <div align="left">
   <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
   <img width="12" />
@@ -58,7 +58,7 @@ I'm a passionate Full Stack Developer based in Cairo, Egypt 🇪🇬 with expert
   <img src="https://skillicons.dev/icons?i=css" height="50" alt="css3 logo"  />
 </div>
 
-### 🚀 Backend Development
+###  Backend Development
 <div align="left">
   <img src="https://skillicons.dev/icons?i=laravel" height="50" alt="laravel logo"  />
   <img width="12" />
@@ -68,7 +68,7 @@ I'm a passionate Full Stack Developer based in Cairo, Egypt 🇪🇬 with expert
   <img width="12" />
 </div>
 
-### 🗄️ Databases & Cloud
+### Databases & Cloud
 <div align="left">
   <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
   <img width="12" />
@@ -79,7 +79,7 @@ I'm a passionate Full Stack Developer based in Cairo, Egypt 🇪🇬 with expert
   <img src="https://skillicons.dev/icons?i=aws" height="50" alt="amazonwebservices logo"  />
 </div>
 
-### ⚙️ Tools & Practices
+###  Tools & Practices
 <div align="left">
   <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
   <img width="12" />
@@ -96,7 +96,7 @@ I'm a passionate Full Stack Developer based in Cairo, Egypt 🇪🇬 with expert
   <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo"  />
 </div>
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmed-moh21&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
@@ -107,46 +107,46 @@ I'm a passionate Full Stack Developer based in Cairo, Egypt 🇪🇬 with expert
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-moh21&theme=radical&hide_border=true" />
 </div>
 
-## 🏆 GitHub Trophies
+##  GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ahmed-moh21&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4"/>
 </div>
 
-## 💼 Professional Experience
+##  Professional Experience
 
-### 🔹 Full Stack Developer — Egypt Tours Portal
+###  Full Stack Developer — Egypt Tours Portal
 **04/2025 – Present · Cairo, Egypt**
 - Develop and maintain travel and tourism web applications using Laravel, React.js, and MySQL
 - Design normalized relational schemas and optimize queries
 - Implement secure authentication with Laravel Breeze and RBAC
 - Translate Figma designs into responsive, accessible components
 
-### 🔹 Front-End Developer — ITARGS
+###  Front-End Developer — ITARGS
 **09/2024 – 03/2025 · Cairo, Egypt**
 - Built interactive dashboards and admin interfaces with React.js and Tailwind CSS
 - Improved front-end architecture for maintainability and responsiveness
 - Collaborated with backend engineers to streamline API contracts
 
-### 🔹 Front-End Developer — Neuron Waves
+###  Front-End Developer — Neuron Waves
 **04/2024 – 07/2024 · Cairo, Egypt**
 - Completed intensive training on modern front-end technologies
 - Delivered multiple small-to-medium React.js projects
 - Enhanced debugging and problem-solving skills
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 📊 Travel Booking Dashboard
+###  Travel Booking Dashboard
 - **Tech:** React.js + Tailwind CSS + Laravel REST APIs
 - **Features:** Role-based access, audit logs, payment integration
 - **Description:** Admin UI for managing leads, files, and payments
 
-### 🗃️ Content Management Module
+### Content Management Module
 - **Tech:** Laravel + MySQL + CRUD Operations
 - **Features:** Soft deletes, request validation, server-side pagination
 - **Description:** High-volume post management system
 
-### 🔐 Authentication & RBAC System
+###  Authentication & RBAC System
 - **Tech:** Laravel Breeze + Policies + Gates
 - **Features:** Email verification, password resets, session security
 - **Description:** Complete authentication and authorization system
